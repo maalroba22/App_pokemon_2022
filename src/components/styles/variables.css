@@ -1,0 +1,15 @@
+:root {
+    --color-naranja-primary: #f12711;
+    --color-naranja-secondary: #f5af19;
+  
+    --color-verde-primary: #1d8d36;
+    --color-verde-secondary: #8ef519;
+  
+    --color-azul-primary: #09077c;
+    --color-azul-secondary: #00b4db;
+    --fondo:background-image: linear-gradient(
+      to right,
+      var(--color-naranja-primary),
+      var(--color-naranja-secondary)
+    );
+  }
